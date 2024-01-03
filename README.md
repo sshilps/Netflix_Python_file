@@ -1,3 +1,4 @@
+![netflix](https://github.com/sshilps/Netflix_Python_file/assets/135365503/0eadb4d2-c67e-41ee-80a8-1ed42f484d7a)
 Netflix Data Analysis with Python : Unveiling Insights and Trends
 ## Table of Content 
 - [Project Overview](#project-overview)
